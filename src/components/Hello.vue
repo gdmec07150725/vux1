@@ -12,7 +12,6 @@
   <xButton type="primary" action-type="button">登陆</xButton>
   
     
-    
   </div>
   
   
